@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">FavoritePet</string>
     <string name="msg_title">선택을 시작할껀가?</string>
-    <string name="check_lbl">시작이당</string>
+    <string name="check_lbl">시작한당</string>
     <string name="msg_quest">너에게 펫을 사하겠노라. 어떤 펫을 원하는가?</string>
     <string name="pet_dog">빠져드는 강아지</string>
     <string name="pet_gure">행운의 너구리</string>
     <string name="pet_cat">사례들린 고양이</string>
-    <string name="but_lbl">골랐는가?</string>
+    <string name="but_lbl">바로 이 펫입니당! ↖(^3^)↗</string>
 </resources>
